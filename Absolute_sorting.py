@@ -1,1 +1,0 @@
-checkio = lambda array: sorted((sorted_array for sorted_array in array), key=abs)
