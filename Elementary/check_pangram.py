@@ -1,0 +1,1 @@
+check_pangram = lambda x: not set('abcdefghijklmopqrstuvwxyz')-set(x.lower())
