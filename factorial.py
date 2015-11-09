@@ -8,7 +8,6 @@ def fac1(n):
     else:
         return n * fac1(n-1)
 
-
 def fac2(n):
     return 1 if n==0 else n * fac2(n-1)
 
